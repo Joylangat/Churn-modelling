@@ -1,1 +1,1 @@
-# Linear-Regression-Analysis
+# Churn modelling
